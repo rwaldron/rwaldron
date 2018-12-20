@@ -18,6 +18,7 @@ console.log(
     ${bold(grey("Director of Engineering @ Bocoup"))}
     ${bold(grey("rick@bocoup.com"))}
 
+    ${grey("https://bocoup.com/about/bocouper/rick-waldron")}
     ${grey("https://github.com/rwaldron")}
     ${grey("https://twitter.com/rwaldron")}
   `,
