@@ -1,0 +1,17 @@
+{
+  "name": "rwaldron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rwaldron": "index.js",
+    "rickwaldron": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "common-tags": "^1.8.0"
+  }
+}
