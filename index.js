@@ -16,6 +16,7 @@ console.log(
   stripIndent`
     ${bold(magenta("Rick Waldron"))}
     ${bold(grey("Director of Engineering @ Bocoup"))}
+    ${bold(grey("rick@bocoup.com"))}
 
     ${grey("https://github.com/rwaldron")}
     ${grey("https://twitter.com/rwaldron")}
