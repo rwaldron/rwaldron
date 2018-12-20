@@ -24,6 +24,7 @@ const flags = {
 
 if (flags.xmas) {
   // https://www.asciiart.eu/holiday-and-events/christmas/trees
+  // TODO: Make a parser that will turn the plain ASCII into "formatted" ASCII
   console.log(
     boxen(
     `
